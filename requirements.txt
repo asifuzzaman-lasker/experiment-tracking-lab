@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+pyyaml
+torch
+torchvision
+mlflow
+wandb
+matplotlib
+seaborn
+tqdm
+python-dotenv
