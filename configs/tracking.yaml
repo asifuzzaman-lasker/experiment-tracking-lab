@@ -1,0 +1,4 @@
+tracking:
+  backend: tensorboard
+  tensorboard:
+    log_dir: "./logs/tensorboard/"
